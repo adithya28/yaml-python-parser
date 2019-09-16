@@ -1,0 +1,4 @@
+.idea
+.pyc
+PARSER/venv
+PARSER/pythonDirectory/__pycache__/

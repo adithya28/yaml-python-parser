@@ -1,0 +1,15 @@
+ErrorMessageScreen:
+  error_message:
+    Index: 2
+    WndCaption: '*'
+    WndClass: Static
+    parent:
+    - error_window
+  error_window:
+    WndCaption: VS*
+    WndClass: '#32770'
+  ok_button:
+    WndCaption: "*OK"
+    WndClass: Button
+    parent:
+    - error_window

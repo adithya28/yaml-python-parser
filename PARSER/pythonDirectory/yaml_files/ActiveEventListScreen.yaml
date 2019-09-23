@@ -1,0 +1,8 @@
+ActiveEventListScreen:
+  active_event_list_window:
+    WndCaption: '*Active Event List*'
+    WndClass: VSC_MainFrame
+  active_event_list_element:
+    ClassName: ActiveEventListView
+    WndClass: GXWND
+  
